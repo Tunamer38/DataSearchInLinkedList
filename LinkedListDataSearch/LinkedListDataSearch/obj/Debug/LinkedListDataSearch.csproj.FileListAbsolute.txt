@@ -1,0 +1,7 @@
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListDataSearch\LinkedListDataSearch\bin\Debug\LinkedListDataSearch.exe.config
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListDataSearch\LinkedListDataSearch\bin\Debug\LinkedListDataSearch.exe
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListDataSearch\LinkedListDataSearch\bin\Debug\LinkedListDataSearch.pdb
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListDataSearch\LinkedListDataSearch\obj\Debug\LinkedListDataSearch.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListDataSearch\LinkedListDataSearch\obj\Debug\LinkedListDataSearch.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListDataSearch\LinkedListDataSearch\obj\Debug\LinkedListDataSearch.exe
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListDataSearch\LinkedListDataSearch\obj\Debug\LinkedListDataSearch.pdb
